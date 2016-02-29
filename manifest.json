@@ -4,7 +4,7 @@
   "version": "0.0.1",
   "manifest_version": 2,
   "description": "Replaces emojis in Facebook Reactions by Bugaboo icon.",
-  "homepage_url": "https://www.bugaboo.tv",
+  "homepage_url": "http://www.bugaboo.tv",
   "default_locale": "en",
   "icons": {
     "16": "img/icon16.png",
