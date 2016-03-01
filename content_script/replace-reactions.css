@@ -1,7 +1,10 @@
 .x2 ._iuz {
   background-image:url("chrome-extension://__MSG_@@extension_id__/img/bugaboo-reactions@2x.png") !important;
 }
-
+._2p7a,
+._2p79{
+  background-image:url("chrome-extension://__MSG_@@extension_id__/img/bugaboo-reactions-mini.png") !important;
+}
 ._iuz {
   background-image:url("chrome-extension://__MSG_@@extension_id__/img/bugaboo-reactions.png") !important;
 }
